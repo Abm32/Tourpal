@@ -3,8 +3,8 @@ import { Appwrite } from "appwrite";
 var appwrite = new Appwrite();
 
 appwrite
-    .setEndpoint('') // Set your endpoint
-    .setProject('') // Your Appwrite Project UID
+    .setEndpoint('https://cloud.appwrite.io/v1') // Set your endpoint
+    .setProject('6468d06d84e5d84e9668') // Your Appwrite Project UID
     ;
 
 
